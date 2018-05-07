@@ -11,10 +11,6 @@
 翁旋https://github.com/Xinlucifer/123
 
 
-
-鄭佳協 https://github.com/J31N/CPP
-
-
 陳有言 https://github.com/4060E051/CPP
 
 李文賓 https://github.com/4060E044/Hello-Word
